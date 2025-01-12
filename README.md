@@ -1,5 +1,6 @@
 # AI Chatbot - README  
-
+## Visit the Website using the URL :
+https://ananditasaxenaa.github.io/Chatbot/
 ## Project Overview  
 This repository contains the code for an AI-powered chatbot built using the **Gemini API**. The project leverages **HTML**, **CSS**, and **JavaScript** to create an intuitive and interactive user interface. The chatbot is designed to be responsive and includes a feature that allows users to upload image files for processing and receive responses based on the uploaded content.
 
