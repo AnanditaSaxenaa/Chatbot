@@ -1,4 +1,4 @@
-# AI Chatbot - README  
+# AI Chatbot 
 ## Visit the Website using the URL :
 https://ananditasaxenaa.github.io/Chatbot/
 ## Project Overview  
