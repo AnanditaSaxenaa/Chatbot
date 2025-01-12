@@ -4,7 +4,7 @@
 This repository contains the code for an AI-powered chatbot built using the **Gemini API**. The project leverages **HTML**, **CSS**, and **JavaScript** to create an intuitive and interactive user interface. The chatbot is designed to be responsive and includes a feature that allows users to upload image files for processing and receive responses based on the uploaded content.
 
 ---
-<img src="" width="600">
+<img src="Screenshot 2025-01-12 at 1.17.22 PM.png" width="600">
 
 ## Features  
 - **Responsive Design**: Adapts seamlessly to various devices, ensuring a smooth user experience on both desktop and mobile platforms.  
