@@ -5,6 +5,7 @@ This repository contains the code for an AI-powered chatbot built using the **Ge
 
 ---
 <img src="Screenshot 2025-01-12 at 1.17.22 PM.png" width="600">
+<img src="Screenshot 2025-01-12 at 1.04.04 PM.png" width="600">
 
 ## Features  
 - **Responsive Design**: Adapts seamlessly to various devices, ensuring a smooth user experience on both desktop and mobile platforms.  
